@@ -44,7 +44,7 @@ The project is present in the tableau packaged workbook (workbook.twbx file) whi
 ## Source data combiner
 The source data present in files "CollegeLife Data Challenge.xlsx" and "msadata.txt" can be combined as follows:
 
-<img src="images/data_source_connection.JPG" alt="drawing" width="800" height="600"/>
+<img src="images/data_source_connection.JPG" alt="drawing" width="400" height="300"/>
 
 - Product Lookup is joined with Transactions data using UPC
 - Transaction data' Store Num is joined with Store Lookup's Store ID 
