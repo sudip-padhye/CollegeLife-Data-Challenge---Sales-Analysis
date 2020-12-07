@@ -73,4 +73,27 @@ The source data present in files "CollegeLife Data Challenge.xlsx" and "msadata.
 - Transaction data' Store Num is joined with Store Lookup's Store ID 
 - Store data is joined with msadata.txt using MSA column
 
+## Tableau Story
+<img src="images/Units-sold-and-factors-affecting.png" alt="drawing" width="800" height="600"/>
+
+<img src="images/spends.png" alt="drawing" width="800" height="600"/>
+
+<img src="images/geomap.png" alt="drawing" width="800" height="600"/>
+
+## Results
+Recommendations based on the EDA are as follows:
+
+1] Operate Stores with various offers and ample stocks for quarter Q1, since historically Q1 has witnessed a surge in spends.
+
+2] Stores are recommended to keep enough stock of "Bag Snack" & "Cold Cereal" category.
+
+3] Customer visits is partially dependent on the Store size, hence keep the size large enough to accomodate more customers.
+
+4] Customers are more concerned about quality of the product despite of product being more expensive or having less quantity/volume. Hence, such high-quality sub-categories observe more sales than other sub-categories within the same category.
+
+5] Store counts in diffferent states depend on the #purchasing household.
+
+6] Sales does not increase with in-store promotional display, in-store circular or temporary price reduction. Hence, stores are advised not to invest much time in making such offers. 
+
+7] Stores are advised to keep sufficient stock of "All Family Cereal", "Pretzels", and "Kids Cereal" sub-categories as they are highly popular and account for more than 70% of the units sold.
 

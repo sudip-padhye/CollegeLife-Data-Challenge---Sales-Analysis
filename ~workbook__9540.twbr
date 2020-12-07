@@ -2180,7 +2180,7 @@
       <simple-id uuid='{208A0776-1E9B-4869-B8E0-01640433AED1}' />
     </dashboard>
   </dashboards>
-  <windows source-height='37'>
+  <windows pres-mode='true' source-height='37'>
     <window class='dashboard' maximized='true' name='CollegeLife Data Challenge'>
       <viewpoints />
       <active id='-1' />
