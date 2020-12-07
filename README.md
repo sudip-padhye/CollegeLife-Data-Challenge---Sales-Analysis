@@ -74,11 +74,11 @@ The source data present in files "CollegeLife Data Challenge.xlsx" and "msadata.
 - Store data is joined with msadata.txt using MSA column
 
 ## Tableau Story
-<img src="images/Units-sold-and-factors-affecting.png" alt="drawing" width="800" height="600"/>
+<img src="images/Units-sold-and-factors-affecting.png" alt="drawing" width="950" height="600"/>
 
-<img src="images/spends.png" alt="drawing" width="800" height="600"/>
+<img src="images/spends.png" alt="drawing" width="950" height="600"/>
 
-<img src="images/geomap.png" alt="drawing" width="800" height="600"/>
+<img src="images/geomap.png" alt="drawing" width="950" height="600"/>
 
 ## Results
 Recommendations based on the EDA are as follows:
