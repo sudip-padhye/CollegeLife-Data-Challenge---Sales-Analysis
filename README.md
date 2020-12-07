@@ -16,35 +16,58 @@ The project is present in the tableau packaged workbook (workbook.twbx file) whi
 
 ## Data Details
 1] ADDRESS_CITY_NAME - city
+
 2] ADDRESS_STATE_PROV_CODE - state
+
 3] AVG_WEEKLY_BASKETS - average weekly baskets sold in the store
+
 4] BASE_PRICE - base price of item
+
 5] MANUFACTURER - manufacturer
+
 6] CATEGORY - category of product
+
 7] DESCRIPTION - prodcut description
+
 8] DISPLAY - product was a part of in-store promotional display
+
 9] FEATURE - product was in in-store circular
+
 10] HHS - # of purchasing households
+
 11] MSA_CODE - (Metropolitan Statistical Area) geographic region with a high core population density and close economic ties throughout the surrounding areas
+
 12] PARKING_SPACE_QTY - number of parking spaces in the store parking lot
+
 13] PRICE - actual amount charged for the product at shelf
+
 14] WEEK_END_DATE - week ending date
+
 15] SALES_AREA_SIZE_NUM - square footage of store
+
 16] STORE_APPEAL - Retailer's designated store appeal
+
 17] SPEND - total spend (i.e., $ sales)
+
 18] STORE_NUM - store number
+
 19] SUB_CATEGORY - sub-category of product
+
 20] TPR_ONLY - temporary price reduction only (i.e., shelf tag only, product was reduced in price but not on display or in an advertisment)
+
 21] UNITS - units sold
+
 22] UPC - (Universal Product Code) product specific identifier
+
 23] VISITS - number of unique purchases (baskets) that included the product
+
 24] PRODUCT_SIZE - package size or quantity of product
 
 
 ## Source data combiner
 The source data present in files "CollegeLife Data Challenge.xlsx" and "msadata.txt" can be combined as follows:
 
-<img src="images/data_source_connection.JPG" alt="drawing" width="650" height="300"/>
+<img src="images/data_source_connection.JPG" alt="drawing" width="750" height="250"/>
 
 - Product Lookup is joined with Transactions data using UPC
 - Transaction data' Store Num is joined with Store Lookup's Store ID 
