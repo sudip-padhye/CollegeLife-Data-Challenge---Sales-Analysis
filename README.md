@@ -100,4 +100,5 @@ Recommendations based on the EDA are as follows:
 
 ## Live Dashboard
 
-<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1016px; height: 991px;'><object class='tableauViz' width='1016' height='991' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;tableauprojectgallery' /><param name='name' value='SalesAnalysis&#47;CollegeLifeDataChallenge' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+https://prod-useast-b.online.tableau.com/t/tableauprojectgallery/views/SalesAnalysis/CollegeLifeDataChallenge?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+
